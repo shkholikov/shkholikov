@@ -1,4 +1,4 @@
-<img src="https://github.com/shkholikov/shkholikov/blob/main/5c9af1ed4f4032acbd36d3100d4c03e8-sticker.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/shkholikov/shkholikov/blob/main/5c9af1ed4f4032acbd36d3100d4c03e8-sticker.png" min-width="150px" max-width="150px" width="200px" align="right" alt="Computador iuriCode">
 
 * 🧑🏻‍💻 Hi, I’m Shakh
 * 🕹 I’m interested in evth related to coding
