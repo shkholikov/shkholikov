@@ -2,7 +2,7 @@
 
 * 🧑🏻‍💻 Hi, I’m Shakh
 * 🕹 I’m interested in evth related to coding
-* 📓 I’m currently learning Advance TS to create my own library
+* 📓 I’m currently working on my utility library with TS
 * 🕵🏻‍♂️ I’m looking to collaborate on smth interesting
 * 🫱🏻‍🫲🏼 Reach me on [my Instagram](https://www.instagram.com/sh.kholikov/)
 
