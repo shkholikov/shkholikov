@@ -5,8 +5,3 @@
 * 📓 I’m currently working on my utility library with TS
 * 🕵🏻‍♂️ I’m looking for collaboration on smth interesting
 * 🫱🏻‍🫲🏼 Reach me here [URL-KEEPER](https://shkholikov.github.io/URL-KEEPER/)
-
-<!---
-shkholikov/shkholikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
