@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Shakh</h1>
 <h3 align="center">🧑🏻‍💻 Full Stack Developer | Tech Enthusiast 🕹️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shkholikov&label=Profile%20views&color=0e75b6&style=flat" alt="shkholikov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shkholikov&label=Profile%20views&style=flat" alt="shkholikov" /> </p>
 
 - 🧑🏻‍🏭 I’m currently working on **a utility library in TS and [PuzzLink](https://puzzlink.vercel.app).**
 
@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/shkholikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shkholikov" height="30" width="50" /></a>
 <a href="https://fb.com/kholikovsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kholikovsh" height="30" width="50" /></a>
 <a href="https://instagram.com/sh.kholikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sh.kholikov" height="30" width="50" /></a>
+<a href="https://t.me/shkholikov" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="shkholikov" height="30" width="50" /></a>
 </p>
 
 <h3 align="left">Technical Skills:</h3>
