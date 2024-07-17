@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shkholikov&label=Profile%20views&style=flat" alt="shkholikov" /> </p>
 
-- 🧑🏻‍🏭 I’m currently working on **a utility library in TS and [PuzzLink](https://puzzlink.vercel.app).**
+- 🧑🏻‍🏭 I’m currently working on **a utility library in TS and [Notionary🗂️](https://notionary.uz).**
 
 - 💻 I’m currently learning **Nest.js**
 
