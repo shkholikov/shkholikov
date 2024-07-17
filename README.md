@@ -5,7 +5,7 @@
 
 - 🧑🏻‍🏭 I’m currently working on **a utility library in TS and [Notionary🗂️](https://notionary.uz).**
 
-- 💻 I’m currently learning **Nest.js**
+- 💻 I’m currently learning **.NET**
 
 - 🫱🏻‍🫲🏼 I’m looking to collaborate on **something cool!**
 
