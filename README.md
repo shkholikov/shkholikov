@@ -5,7 +5,7 @@
 
 - 🧑🏻‍🏭 I’m currently working on **[NoxyGram🗂️](https://noxygram.uz) and [TexnikAI🧑🏻‍💻](https://t.me/TexnikAIBot).**
 
-- 💻 I’m currently learning **.NET**
+- 💻 I’m currently playing with **LangChain**
 
 - 🫱🏻‍🫲🏼 I’m looking to collaborate on **something cool!**
 
