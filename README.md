@@ -5,7 +5,7 @@
 
 - 🧑🏻‍🏭 I’m currently working on **[NoxyGram🗂️](https://noxygram.uz) and [TexnikAI🧑🏻‍💻](https://t.me/TexnikAIBot).**
 
-- 💻 I’m currently building **ZARA AI** with **LangChain**
+- 💻 I’m currently building an AI powered **ZARA AI** with **LangChain**
 
 - 🫱🏻‍🫲🏼 I’m looking to collaborate on **something cool!**
 
