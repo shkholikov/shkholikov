@@ -23,7 +23,7 @@
 <a href="https://t.me/shkholikov" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="shkholikov" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Technical Skills:</h3>
+<h3 align="left">Tech Skills:</h3>
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
